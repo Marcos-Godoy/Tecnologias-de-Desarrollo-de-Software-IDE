@@ -1,0 +1,7 @@
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Lab01\bin\Debug\Lab01.exe
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Lab01\obj\Debug\Decision.csproj.AssemblyReference.cache
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Lab01\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Lab01\obj\Debug\Lab01.exe
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Lab01\obj\Debug\Lab01.pdb

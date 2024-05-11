@@ -1,0 +1,7 @@
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Iteracion\bin\Debug\Iteracion.exe.config
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Iteracion\bin\Debug\Iteracion.exe
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Iteracion\bin\Debug\Iteracion.pdb
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Iteracion\obj\Debug\Iteracion.csproj.AssemblyReference.cache
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Iteracion\obj\Debug\Iteracion.csproj.CoreCompileInputs.cache
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Iteracion\obj\Debug\Iteracion.exe
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Unidad02\Capitulo01\Iteracion\obj\Debug\Iteracion.pdb

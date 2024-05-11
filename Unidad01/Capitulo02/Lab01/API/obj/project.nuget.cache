@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uhOjEXki4fGZwepFtGf4xO6X8objKvP8CWWmuisXP9fS2WqKeFFb7MwJk9vmP+qjbrdJVr98qFlDmkF4EGgJMw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mjgod\\Desktop\\UTN\\3er año\\NET\\Laboratorios\\Unidad01\\Capitulo02\\Lab01\\API\\API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

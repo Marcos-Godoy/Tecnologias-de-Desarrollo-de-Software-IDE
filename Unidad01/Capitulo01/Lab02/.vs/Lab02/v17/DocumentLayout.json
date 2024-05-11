@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mjgod\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2876E5-969F-4FF9-8A1E-AF1A9A253006}|Lab02.csproj|c:\\users\\mjgod\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2876E5-969F-4FF9-8A1E-AF1A9A253006}|Lab02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mjgod\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Lab02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mjgod\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Lab02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:11:54.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

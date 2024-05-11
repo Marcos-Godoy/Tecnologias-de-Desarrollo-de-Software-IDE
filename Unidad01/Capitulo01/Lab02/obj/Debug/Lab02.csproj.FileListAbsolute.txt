@@ -1,0 +1,7 @@
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Lab02\bin\Debug\Lab02.exe
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Lab02\bin\Debug\Lab02.pdb
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Lab02\obj\Debug\Lab02.exe
+C:\Users\mjgod\Desktop\UTN\3er año\NET\Laboratorios\Lab02\obj\Debug\Lab02.pdb

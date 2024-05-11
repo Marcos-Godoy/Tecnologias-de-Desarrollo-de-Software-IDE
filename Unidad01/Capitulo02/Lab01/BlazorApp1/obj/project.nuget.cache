@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bd/hg9S99ZNR2I+b1qnnv/4sQBSSmoyMCrjpJ4N2ip9irLTJhVaW5yiASPRkit06vMP8XfX31vH+icnSw/WvLw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mjgod\\Desktop\\UTN\\3er año\\NET\\Laboratorios\\Unidad01\\Capitulo02\\Lab01\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NET.Sdk.WebAssembly.Pack. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NET.Sdk.WebAssembly.Pack",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.Components.WebAssembly. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NET.ILLink.Tasks. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.Components.WebAssembly.DevServer. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.DevServer",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NETCore.App.Runtime.Mono.browser-wasm. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

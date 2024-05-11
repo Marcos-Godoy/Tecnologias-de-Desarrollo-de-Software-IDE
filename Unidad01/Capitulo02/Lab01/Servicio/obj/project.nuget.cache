@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "UudQxsDSn7vyPA6mwofIhrikSPzK2HXUxyNNs4w1iW+8SYEVsOPIchynN2RkvSMtzKxBhanKmr8Sprp5+NkWbw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mjgod\\Desktop\\UTN\\3er año\\NET\\Laboratorios\\Unidad01\\Capitulo02\\Lab01\\Servicio\\Servicio.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.Extensions.Hosting. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217B8C58-86BF-429A-B615-82BA492ADEC1}|Ejercicio4.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217B8C58-86BF-429A-B615-82BA492ADEC1}|Ejercicio4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55283648-4AFB-477C-80A4-8F76A9FF3746}|..\\ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\classlibrary2\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217B8C58-86BF-429A-B615-82BA492ADEC1}|Ejercicio4.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\ejercicio4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217B8C58-86BF-429A-B615-82BA492ADEC1}|Ejercicio4.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clases.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\ClassLibrary2\\Clases.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Clases.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\ClassLibrary2\\Clases.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Clases.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:39:15.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Ejercicio4\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Ejercicio4\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:38:42.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:35:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

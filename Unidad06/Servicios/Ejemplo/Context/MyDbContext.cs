@@ -1,14 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Ejemplo.Models;
+﻿using Ejemplo.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Ejemplo.Context
 {
     public class MyDbContext : DbContext
     {
-        public MyDbContext(DbContextOptions<MyDbContext> options ) : base(options) { }
-
-        //public DbSet<Alumnos> Productos { get; set; }
-        public DbSet<Alumnos> Alumnos { get; set; } // tuve q cambiar esto porque estaba mal el ppt
-
+        public MyDbContext(DbContextOptions<MyDbContext> options) : base(options) { }
+        public DbSet<Alumno> Alumnos { get; set; }
     }
 }

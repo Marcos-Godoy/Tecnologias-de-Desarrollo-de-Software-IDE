@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\",
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\servicios\\ejemplo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|c:\\users\\cuatro vientos\\desktop\\servicios\\ejemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\servicios\\ejemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|c:\\users\\cuatro vientos\\desktop\\servicios\\ejemplo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\servicios\\ejemplo\\models\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\models\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|c:\\users\\cuatro vientos\\desktop\\servicios\\ejemplo\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\servicios\\ejemplo\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|c:\\users\\cuatro vientos\\desktop\\servicios\\ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\servicios\\ejemplo\\ejemplo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\ejemplo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|c:\\users\\cuatro vientos\\desktop\\servicios\\ejemplo\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\servicios\\ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\servicios\\ejemplo\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ACA486B-9B86-4464-AAEF-FF54298487E9}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|c:\\users\\cuatro vientos\\desktop\\servicios\\ejemplo\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE760044-6FFD-45AB-8FA6-F7A25D2443CC}|Ejemplo\\Ejemplo.csproj|solutionrelative:ejemplo\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Ejemplo\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Ejemplo\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T21:49:50.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AlumnoController.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Controllers\\AlumnoController.cs",
-              "RelativeDocumentMoniker": "Ejemplo\\Controllers\\AlumnoController.cs",
-              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Controllers\\AlumnoController.cs",
-              "RelativeToolTip": "Ejemplo\\Controllers\\AlumnoController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:57:57.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Context\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "Ejemplo\\Context\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Context\\MyDbContext.cs",
-              "RelativeToolTip": "Ejemplo\\Context\\MyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:53:51.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Alumnos.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Models\\Alumnos.cs",
-              "RelativeDocumentMoniker": "Ejemplo\\Models\\Alumnos.cs",
-              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Models\\Alumnos.cs",
-              "RelativeToolTip": "Ejemplo\\Models\\Alumnos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:51:16.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo\\Program.cs",
-              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Program.cs",
-              "RelativeToolTip": "Ejemplo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:45:53.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\appsettings.json",
-              "RelativeDocumentMoniker": "Ejemplo\\appsettings.json",
-              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\appsettings.json",
-              "RelativeToolTip": "Ejemplo\\appsettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ejemplo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ejemplo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T19:43:14.011Z",
+              "WhenOpened": "2025-01-26T13:25:10.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Ejemplo",
-              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Ejemplo.csproj",
-              "RelativeDocumentMoniker": "Ejemplo\\Ejemplo.csproj",
-              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\Servicios\\Ejemplo\\Ejemplo.csproj",
-              "RelativeToolTip": "Ejemplo\\Ejemplo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T19:37:20.863Z",
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "Ejemplo\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "Ejemplo\\Controllers\\AlumnoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:11:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Ejemplo\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "Ejemplo\\Context\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:09:06.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "Ejemplo\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Models\\Alumno.cs",
+              "RelativeToolTip": "Ejemplo\\Models\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:07:26.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\Program.cs",
+              "RelativeToolTip": "Ejemplo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:03:54.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\appsettings.json",
+              "RelativeDocumentMoniker": "Ejemplo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Servicios\\Ejemplo\\appsettings.json",
+              "RelativeToolTip": "Ejemplo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T13:01:55.609Z",
               "EditorCaption": ""
             }
           ]

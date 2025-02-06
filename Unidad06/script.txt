@@ -1,0 +1,16 @@
+-- Crear la base de datos si no existe
+CREATE DATABASE Universidad;
+
+-- Usar la base de datos recién creada
+USE Universidad;
+
+CREATE TABLE [dbo].[Alumnos] (
+[DNI] VARCHAR (20) NOT NULL,
+[ApellidoNombre] VARCHAR (50) NOT NULL,
+[Email] VARCHAR (50) DEFAULT (NULL) NULL,
+[FechaNacimiento] DATETIME NOT NULL,
+[NotaPromedio] DECIMAL (4,2) NULL,
+CONSTRAINT [PK_Alumnos1] PRIMARY KEY CLUSTERED ([DNI] ASC)
+);
+
+SELECT * FROM Alumnos;

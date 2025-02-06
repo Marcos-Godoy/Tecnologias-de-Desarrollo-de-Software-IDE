@@ -8,6 +8,7 @@ Console.WriteLine("Hello, World!");
     LeerAlumno("Juan");
     ActualizarAlumno(1235, "Juan", "Gómez", "Calle Falsa 321");
     EliminarAlumno(1235);
+CrearAlumno(1235, "Lionel", "Pérez", "Calle Falsa 123");
 
 
 static void CrearAlumno(int legajo, string nombre, string apellido, string direccion)

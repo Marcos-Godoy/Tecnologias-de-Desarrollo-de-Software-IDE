@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\ClienteServicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD386E2-853C-4C01-86B5-A29D85B77E17}|Negocio\\Negocio.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\clienteservicios\\negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD386E2-853C-4C01-86B5-A29D85B77E17}|Negocio\\Negocio.csproj|solutionrelative:negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB7CEA-82C2-4B78-8D79-837136E67AB3}|Entidades\\Entidades.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\clienteservicios\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CB7CEA-82C2-4B78-8D79-837136E67AB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD386E2-853C-4C01-86B5-A29D85B77E17}|Negocio\\Negocio.csproj|c:\\users\\marcos\\desktop\\utn\\3er a\u00F1o\\net\\laboratorios\\unidad06\\clienteservicios\\negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD386E2-853C-4C01-86B5-A29D85B77E17}|Negocio\\Negocio.csproj|solutionrelative:negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\ClienteServicios\\Negocio\\AlumnoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\AlumnoNegocio.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\ClienteServicios\\Negocio\\AlumnoNegocio.cs",
+              "RelativeToolTip": "Negocio\\AlumnoNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:22:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\ClienteServicios\\Negocio\\Conexion.cs",
+              "RelativeDocumentMoniker": "Negocio\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\ClienteServicios\\Negocio\\Conexion.cs",
+              "RelativeToolTip": "Negocio\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:14:57.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\ClienteServicios\\Entidades\\Alumno.cs",
+              "RelativeDocumentMoniker": "Entidades\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\UTN\\3er a\u00F1o\\NET\\Laboratorios\\Unidad06\\ClienteServicios\\Entidades\\Alumno.cs",
+              "RelativeToolTip": "Entidades\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:08:05.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

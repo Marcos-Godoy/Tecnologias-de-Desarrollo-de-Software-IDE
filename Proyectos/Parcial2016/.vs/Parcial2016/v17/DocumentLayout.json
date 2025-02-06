@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|solutionrelative:web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|solutionrelative:web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588CE07C-93CF-4920-8C00-3B1C4517CB99}|Web\\Web.csproj|solutionrelative:web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B19579D-6548-4414-B76F-0D4330956DA4}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B19579D-6548-4414-B76F-0D4330956DA4}|Entidades\\Entidades.csproj|solutionrelative:entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B19579D-6548-4414-B76F-0D4330956DA4}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B19579D-6548-4414-B76F-0D4330956DA4}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEF23AE-EBE7-4EDC-94A6-C402FD4E6FDF}|Negocio\\Negocio.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEF23AE-EBE7-4EDC-94A6-C402FD4E6FDF}|Negocio\\Negocio.csproj|solutionrelative:negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D2363F-B426-417D-A2A6-07F9DA841493}|Datos\\Datos.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\datos\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D2363F-B426-417D-A2A6-07F9DA841493}|Datos\\Datos.csproj|solutionrelative:datos\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\escritorio\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\escritorio\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|c:\\users\\cuatro vientos\\desktop\\parcial2016\\escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E135BFB7-7EA8-434B-ACF2-137EF3DF9D97}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T15:23:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T15:23:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Web\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Components\\_Imports.razor",
+              "RelativeToolTip": "Web\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T15:16:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Web\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Web\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAC8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T15:12:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T15:11:00.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entidades",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Entidades\\Entidades.csproj",
+              "RelativeDocumentMoniker": "Entidades\\Entidades.csproj",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Entidades\\Entidades.csproj",
+              "RelativeToolTip": "Entidades\\Entidades.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T15:05:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Lista.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Lista.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Lista.cs",
+              "RelativeToolTip": "Escritorio\\Lista.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBcAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:55:48.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Lista.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Lista.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Lista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Escritorio\\Lista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:53:06.256Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Form1.cs",
+              "RelativeToolTip": "Escritorio\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:52:26.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Escritorio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Escritorio\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:50:42.669Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlumnoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Negocio\\AlumnoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\AlumnoNegocio.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Negocio\\AlumnoNegocio.cs",
+              "RelativeToolTip": "Negocio\\AlumnoNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:46:48.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Datos\\Controlador.cs",
+              "RelativeDocumentMoniker": "Datos\\Controlador.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Datos\\Controlador.cs",
+              "RelativeToolTip": "Datos\\Controlador.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:31:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Entidades\\Alumno.cs",
+              "RelativeDocumentMoniker": "Entidades\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parcial2016\\Entidades\\Alumno.cs",
+              "RelativeToolTip": "Entidades\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:20:54.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

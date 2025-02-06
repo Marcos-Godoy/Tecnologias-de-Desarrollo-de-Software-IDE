@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Godoy.WebApi.props" />
+</Project>

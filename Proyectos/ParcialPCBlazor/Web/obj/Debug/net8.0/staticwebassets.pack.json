@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\obj\\Debug\\net8.0\\compressed\\uoo3bgwqsp.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web.styles.css",
+      "PackagePath": "staticwebassets\\Web.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\UTN.png",
+      "PackagePath": "staticwebassets\\assets\\UTN.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\add.png",
+      "PackagePath": "staticwebassets\\assets\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\award-fill.png",
+      "PackagePath": "staticwebassets\\assets\\award-fill.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\book.png",
+      "PackagePath": "staticwebassets\\assets\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\calendar.png",
+      "PackagePath": "staticwebassets\\assets\\calendar.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\course.png",
+      "PackagePath": "staticwebassets\\assets\\course.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\group-of-people.png",
+      "PackagePath": "staticwebassets\\assets\\group-of-people.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\home.png",
+      "PackagePath": "staticwebassets\\assets\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\person.png",
+      "PackagePath": "staticwebassets\\assets\\person.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\student.png",
+      "PackagePath": "staticwebassets\\assets\\student.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\teacher.png",
+      "PackagePath": "staticwebassets\\assets\\teacher.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\assets\\user.png",
+      "PackagePath": "staticwebassets\\assets\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cuatro Vientos\\Desktop\\ParcialPCBlazor\\Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

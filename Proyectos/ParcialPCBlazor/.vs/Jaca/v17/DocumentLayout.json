@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\negocio\\negocio\\propiedadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio\\propiedadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|solutionrelative:negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\servicios\\controladores\\propiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controladores\\propiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\pages\\propiedad\\propiedadui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\pages\\propiedad\\propiedadui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\pages\\propiedad\\propiedadesui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\pages\\propiedad\\propiedadesui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\pages\\inicio\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\pages\\inicio\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|solutionrelative:datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\servicios\\controladores\\tipopropiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controladores\\tipopropiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|solutionrelative:servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|solutionrelative:servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|solutionrelative:servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\datos\\contexto\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|solutionrelative:datos\\contexto\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\negocio\\negocio\\tipopropiedadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio\\tipopropiedadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\entidades\\dtos\\tipopropiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\dtos\\tipopropiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\entidades\\dtos\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\dtos\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\entidades\\entidades\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\entidades\\entidades\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\pages\\tipopropiedad\\tipopropiedadui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\pages\\tipopropiedad\\tipopropiedadui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\parcialpcblazor\\web\\pages\\tipopropiedad\\tipospropiedadesui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB1406F-1E08-48AF-AE98-F622DEDF6E85}|Web\\Web.csproj|solutionrelative:web\\pages\\tipopropiedad\\tipospropiedadesui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\PropiedadUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\Grilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropiedadUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\Propiedad\\PropiedadUI.razor",
+              "RelativeDocumentMoniker": "Web\\Pages\\Propiedad\\PropiedadUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\Propiedad\\PropiedadUI.razor",
+              "RelativeToolTip": "Web\\Pages\\Propiedad\\PropiedadUI.razor",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAAHUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T22:37:04.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropiedadesUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\Propiedad\\PropiedadesUI.razor",
+              "RelativeDocumentMoniker": "Web\\Pages\\Propiedad\\PropiedadesUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\Propiedad\\PropiedadesUI.razor",
+              "RelativeToolTip": "Web\\Pages\\Propiedad\\PropiedadesUI.razor",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T22:36:17.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\App.razor",
+              "RelativeDocumentMoniker": "Web\\App.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\App.razor",
+              "RelativeToolTip": "Web\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T15:04:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Web\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Web\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T12:52:34.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\_Imports.razor",
+              "RelativeDocumentMoniker": "Web\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\_Imports.razor",
+              "RelativeToolTip": "Web\\_Imports.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T15:06:32.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropiedadNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Negocio\\Negocio\\PropiedadNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Negocio\\PropiedadNegocio.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Negocio\\Negocio\\PropiedadNegocio.cs",
+              "RelativeToolTip": "Negocio\\Negocio\\PropiedadNegocio.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:31:52.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropiedadControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Controladores\\PropiedadControlador.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controladores\\PropiedadControlador.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Controladores\\PropiedadControlador.cs",
+              "RelativeToolTip": "Servicios\\Controladores\\PropiedadControlador.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:23:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Negocio\\Conexion.cs",
+              "RelativeDocumentMoniker": "Negocio\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Negocio\\Conexion.cs",
+              "RelativeToolTip": "Negocio\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:09:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Web\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Web\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T12:52:31.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Datos.csproj",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Datos\\Datos.csproj",
+              "RelativeDocumentMoniker": "Datos\\Datos.csproj",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Datos\\Datos.csproj",
+              "RelativeToolTip": "Datos\\Datos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T12:43:49.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\Inicio\\Inicio.razor",
+              "RelativeDocumentMoniker": "Web\\Pages\\Inicio\\Inicio.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\Inicio\\Inicio.razor",
+              "RelativeToolTip": "Web\\Pages\\Inicio\\Inicio.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T15:04:44.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T14:58:47.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Web.csproj",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Web.csproj",
+              "RelativeToolTip": "Web\\Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T18:25:45.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoPropiedadControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Controladores\\TipoPropiedadControlador.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controladores\\TipoPropiedadControlador.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Controladores\\TipoPropiedadControlador.cs",
+              "RelativeToolTip": "Servicios\\Controladores\\TipoPropiedadControlador.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:56:57.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Program.cs",
+              "RelativeDocumentMoniker": "Servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Program.cs",
+              "RelativeToolTip": "Servicios\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:52:20.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\appsettings.json",
+              "RelativeDocumentMoniker": "Servicios\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\appsettings.json",
+              "RelativeToolTip": "Servicios\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T19:24:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Servicios\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Servicios\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Servicios\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T11:52:23.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InmobiliariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Datos\\Contexto\\InmobiliariaContext.cs",
+              "RelativeDocumentMoniker": "Datos\\Contexto\\InmobiliariaContext.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Datos\\Contexto\\InmobiliariaContext.cs",
+              "RelativeToolTip": "Datos\\Contexto\\InmobiliariaContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwB8AAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:38:24.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Entidades.csproj",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\Entidades.csproj",
+              "RelativeDocumentMoniker": "Entidades\\Entidades.csproj",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\Entidades.csproj",
+              "RelativeToolTip": "Entidades\\Entidades.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T12:43:47.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TipoPropiedadNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Negocio\\Negocio\\TipoPropiedadNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Negocio\\TipoPropiedadNegocio.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Negocio\\Negocio\\TipoPropiedadNegocio.cs",
+              "RelativeToolTip": "Negocio\\Negocio\\TipoPropiedadNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:40:15.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TipoPropiedadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "RelativeDocumentMoniker": "Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "RelativeToolTip": "Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:08:18.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PropiedadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\DTOs\\PropiedadDTO.cs",
+              "RelativeDocumentMoniker": "Entidades\\DTOs\\PropiedadDTO.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\DTOs\\PropiedadDTO.cs",
+              "RelativeToolTip": "Entidades\\DTOs\\PropiedadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:06:55.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TipoPropiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\Entidades\\TipoPropiedad.cs",
+              "RelativeDocumentMoniker": "Entidades\\Entidades\\TipoPropiedad.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\Entidades\\TipoPropiedad.cs",
+              "RelativeToolTip": "Entidades\\Entidades\\TipoPropiedad.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:05:45.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\Entidades\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Entidades\\Entidades\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Entidades\\Entidades\\Propiedad.cs",
+              "RelativeToolTip": "Entidades\\Entidades\\Propiedad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:46:16.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TipoPropiedadUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\TipoPropiedad\\TipoPropiedadUI.razor",
+              "RelativeDocumentMoniker": "Web\\Pages\\TipoPropiedad\\TipoPropiedadUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\TipoPropiedad\\TipoPropiedadUI.razor",
+              "RelativeToolTip": "Web\\Pages\\TipoPropiedad\\TipoPropiedadUI.razor",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T19:05:34.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TiposPropiedadesUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\TipoPropiedad\\TiposPropiedadesUI.razor",
+              "RelativeDocumentMoniker": "Web\\Pages\\TipoPropiedad\\TiposPropiedadesUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\ParcialPCBlazor\\Web\\Pages\\TipoPropiedad\\TiposPropiedadesUI.razor",
+              "RelativeToolTip": "Web\\Pages\\TipoPropiedad\\TiposPropiedadesUI.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T19:05:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PropiedadUI.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:29:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Grilla.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:28:13.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

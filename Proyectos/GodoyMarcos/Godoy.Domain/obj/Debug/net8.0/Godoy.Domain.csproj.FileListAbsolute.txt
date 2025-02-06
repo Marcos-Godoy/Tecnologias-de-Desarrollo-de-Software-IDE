@@ -1,0 +1,12 @@
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\bin\Debug\net8.0\Godoy.Domain.deps.json
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\bin\Debug\net8.0\Godoy.Domain.dll
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\bin\Debug\net8.0\Godoy.Domain.pdb
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\Godoy.Domain.csproj.AssemblyReference.cache
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\Godoy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\Godoy.Domain.AssemblyInfoInputs.cache
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\Godoy.Domain.AssemblyInfo.cs
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\Godoy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\Godoy.Domain.dll
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\refint\Godoy.Domain.dll
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\Godoy.Domain.pdb
+C:\Users\Cuatro Vientos\Desktop\Parciales Net\GodoyMarcos\Godoy.Domain\obj\Debug\net8.0\ref\Godoy.Domain.dll

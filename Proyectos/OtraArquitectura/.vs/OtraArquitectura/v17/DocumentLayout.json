@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A130C018-711C-4B7A-9ED9-0BE1374E598D}|Negocio\\Negocio.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\negocio\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A130C018-711C-4B7A-9ED9-0BE1374E598D}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A130C018-711C-4B7A-9ED9-0BE1374E598D}|Negocio\\Negocio.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A130C018-711C-4B7A-9ED9-0BE1374E598D}|Negocio\\Negocio.csproj|solutionrelative:negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\servicios\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|solutionrelative:servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F451A49-E307-41C0-92DD-76600416CD63}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\entidades\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F451A49-E307-41C0-92DD-76600416CD63}|Entidades\\Entidades.csproj|solutionrelative:entidades\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F451A49-E307-41C0-92DD-76600416CD63}|Entidades\\Entidades.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F451A49-E307-41C0-92DD-76600416CD63}|Entidades\\Entidades.csproj|solutionrelative:entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|solutionrelative:servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A0B1900-5BE4-4F37-A499-8212787A89D1}|Servicios\\Servicios.csproj|solutionrelative:servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3FC8E0-0450-427E-9877-104412A86E9E}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\web\\components\\pages\\alumnoui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3FC8E0-0450-427E-9877-104412A86E9E}|Web\\Web.csproj|solutionrelative:web\\components\\pages\\alumnoui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3FC8E0-0450-427E-9877-104412A86E9E}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\web\\components\\pages\\alumnosui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3FC8E0-0450-427E-9877-104412A86E9E}|Web\\Web.csproj|solutionrelative:web\\components\\pages\\alumnosui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3FC8E0-0450-427E-9877-104412A86E9E}|Web\\Web.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D3FC8E0-0450-427E-9877-104412A86E9E}|Web\\Web.csproj|solutionrelative:web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D1DDB1-51BB-4956-AB60-86922B72CAD4}|Escritorio\\Escritorio.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\escritorio\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D1DDB1-51BB-4956-AB60-86922B72CAD4}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D1DDB1-51BB-4956-AB60-86922B72CAD4}|Escritorio\\Escritorio.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\otraarquitectura\\escritorio\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D1DDB1-51BB-4956-AB60-86922B72CAD4}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Servicios\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Servicios\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T13:29:50.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlumnosUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Web\\Components\\Pages\\AlumnosUI.razor",
+              "RelativeDocumentMoniker": "Web\\Components\\Pages\\AlumnosUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Web\\Components\\Pages\\AlumnosUI.razor",
+              "RelativeToolTip": "Web\\Components\\Pages\\AlumnosUI.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAIBZwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T22:15:51.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Escritorio\\Lista.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Lista.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Escritorio\\Lista.cs",
+              "RelativeToolTip": "Escritorio\\Lista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:11:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\Program.cs",
+              "RelativeDocumentMoniker": "Servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\Program.cs",
+              "RelativeToolTip": "Servicios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:56:27.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Entidades\\Alumno.cs",
+              "RelativeDocumentMoniker": "Entidades\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Entidades\\Alumno.cs",
+              "RelativeToolTip": "Entidades\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:55:18.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\Controlador.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controlador.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\Controlador.cs",
+              "RelativeToolTip": "Servicios\\Controlador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:58:13.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Negocio\\Conexion.cs",
+              "RelativeDocumentMoniker": "Negocio\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Negocio\\Conexion.cs",
+              "RelativeToolTip": "Negocio\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:05:29.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Negocio\\Negocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Negocio.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Negocio\\Negocio.cs",
+              "RelativeToolTip": "Negocio\\Negocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:05:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Entidades\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Entidades\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Entidades\\MyDbContext.cs",
+              "RelativeToolTip": "Entidades\\MyDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:55:29.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\appsettings.json",
+              "RelativeDocumentMoniker": "Servicios\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Servicios\\appsettings.json",
+              "RelativeToolTip": "Servicios\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T13:29:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T22:28:28.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlumnoUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Web\\Components\\Pages\\AlumnoUI.razor",
+              "RelativeDocumentMoniker": "Web\\Components\\Pages\\AlumnoUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Web\\Components\\Pages\\AlumnoUI.razor",
+              "RelativeToolTip": "Web\\Components\\Pages\\AlumnoUI.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAIBZwDIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T22:31:43.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Escritorio\\Detalle.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Detalle.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\OtraArquitectura\\Escritorio\\Detalle.cs",
+              "RelativeToolTip": "Escritorio\\Detalle.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:11:08.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

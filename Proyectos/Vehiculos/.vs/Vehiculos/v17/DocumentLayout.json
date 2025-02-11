@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\winformsapp\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\winformsapp\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\winformsapp\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\winformsapp\\vehiculoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\vehiculoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023963FB-B86D-4A4C-98E8-2ED542ED820E}|WebApi\\WebApi.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023963FB-B86D-4A4C-98E8-2ED542ED820E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\dominio\\tipopropiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\tipopropiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\dominio\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\dominio\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\dominio\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\winformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023963FB-B86D-4A4C-98E8-2ED542ED820E}|WebApi\\WebApi.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{023963FB-B86D-4A4C-98E8-2ED542ED820E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\dominio\\vehiculocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vehiculocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\dominio\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\.net\\vehiculos\\dominio\\vehiculovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\vehiculovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculoApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\VehiculoApiClient.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\VehiculoApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\VehiculoApiClient.cs",
+              "RelativeToolTip": "WinFormsApp\\VehiculoApiClient.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:51:59.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:31:32.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiculoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\VehiculoDto.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoDto.cs",
+              "RelativeToolTip": "Dominio\\VehiculoDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:44:59.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehiculoService.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoService.cs",
+              "RelativeDocumentMoniker": "Dominio\\VehiculoService.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoService.cs",
+              "RelativeToolTip": "Dominio\\VehiculoService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:37:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoPropiedadService.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\TipoPropiedadService.cs",
+              "RelativeDocumentMoniker": "Dominio\\TipoPropiedadService.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\TipoPropiedadService.cs",
+              "RelativeToolTip": "Dominio\\TipoPropiedadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:49:06.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoPropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\TipoPropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\TipoPropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\TipoPropiedadApiClient.cs",
+              "RelativeToolTip": "WinFormsApp\\TipoPropiedadApiClient.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:52:46.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\Lista.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Lista.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\Lista.cs",
+              "RelativeToolTip": "WinFormsApp\\Lista.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwEcAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:48:31.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\Detalle.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Detalle.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\Detalle.cs",
+              "RelativeToolTip": "WinFormsApp\\Detalle.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA3wCUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:47:43.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\Vehiculo.cs",
+              "RelativeToolTip": "Dominio\\Vehiculo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:20:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T01:23:28.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\WinFormsApp\\Program.cs",
+              "RelativeToolTip": "WinFormsApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:35:46.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehiculoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoContext.cs",
+              "RelativeDocumentMoniker": "Dominio\\VehiculoContext.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoContext.cs",
+              "RelativeToolTip": "Dominio\\VehiculoContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:25:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoPropiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\TipoPropiedad.cs",
+              "RelativeDocumentMoniker": "Dominio\\TipoPropiedad.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\TipoPropiedad.cs",
+              "RelativeToolTip": "Dominio\\TipoPropiedad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:24:00.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehiculoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoValidation.cs",
+              "RelativeDocumentMoniker": "Dominio\\VehiculoValidation.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\.net\\Vehiculos\\Dominio\\VehiculoValidation.cs",
+              "RelativeToolTip": "Dominio\\VehiculoValidation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:50:35.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

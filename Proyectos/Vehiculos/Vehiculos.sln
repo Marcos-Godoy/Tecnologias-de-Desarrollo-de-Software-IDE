@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{023963FB-B86D-4A4C-98E8-2ED542ED820E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023963FB-B86D-4A4C-98E8-2ED542ED820E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023963FB-B86D-4A4C-98E8-2ED542ED820E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023963FB-B86D-4A4C-98E8-2ED542ED820E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023963FB-B86D-4A4C-98E8-2ED542ED820E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E99740-5DE8-4D97-9F9A-06B97FD9B5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BB2F05-E8C9-4EE9-84CF-BDEB85A9CC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B1FE2CA-AC69-4470-A082-8904DE81DDAC}
+	EndGlobalSection
+EndGlobal

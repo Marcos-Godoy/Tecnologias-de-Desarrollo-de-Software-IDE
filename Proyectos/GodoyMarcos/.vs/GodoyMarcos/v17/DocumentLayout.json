@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1441E84-802E-4366-B8B8-BE2D5DDC4342}|Godoy.WebApi\\Godoy.WebApi.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1441E84-802E-4366-B8B8-BE2D5DDC4342}|Godoy.WebApi\\Godoy.WebApi.csproj|solutionrelative:godoy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.presentacion\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|solutionrelative:godoy.presentacion\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B01033-5739-41B1-B524-DD52F8F9E094}|Godoy.Domain\\Godoy.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.domain\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B01033-5739-41B1-B524-DD52F8F9E094}|Godoy.Domain\\Godoy.Domain.csproj|solutionrelative:godoy.domain\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\components\\pages\\propiedadui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\components\\pages\\propiedadui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\components\\pages\\propiedadesui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\components\\pages\\propiedadesui.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.presentacion\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|solutionrelative:godoy.presentacion\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.presentacion\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|solutionrelative:godoy.presentacion\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B01033-5739-41B1-B524-DD52F8F9E094}|Godoy.Domain\\Godoy.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.domain\\propiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B01033-5739-41B1-B524-DD52F8F9E094}|Godoy.Domain\\Godoy.Domain.csproj|solutionrelative:godoy.domain\\propiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B01033-5739-41B1-B524-DD52F8F9E094}|Godoy.Domain\\Godoy.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.domain\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B01033-5739-41B1-B524-DD52F8F9E094}|Godoy.Domain\\Godoy.Domain.csproj|solutionrelative:godoy.domain\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.presentacion\\detalle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|solutionrelative:godoy.presentacion\\detalle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.presentacion\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57361902-E8B3-4529-B0EF-8EA82FA6315B}|Godoy.Presentacion\\Godoy.Presentacion.csproj|solutionrelative:godoy.presentacion\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1441E84-802E-4366-B8B8-BE2D5DDC4342}|Godoy.WebApi\\Godoy.WebApi.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.webapi\\godoy.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1441E84-802E-4366-B8B8-BE2D5DDC4342}|Godoy.WebApi\\Godoy.WebApi.csproj|solutionrelative:godoy.webapi\\godoy.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|c:\\users\\cuatro vientos\\desktop\\arquitecturas net\\godoymarcos\\godoy.blazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E92D1B-DB23-4C18-9BFB-42FA97FD4847}|Godoy.Blazor\\Godoy.Blazor.csproj|solutionrelative:godoy.blazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\Detalle.cs",
+              "RelativeDocumentMoniker": "Godoy.Presentacion\\Detalle.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\Detalle.cs",
+              "RelativeToolTip": "Godoy.Presentacion\\Detalle.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:03:20.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\Lista.cs",
+              "RelativeDocumentMoniker": "Godoy.Presentacion\\Lista.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\Lista.cs",
+              "RelativeToolTip": "Godoy.Presentacion\\Lista.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:58:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Domain\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Godoy.Domain\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Domain\\MyDbContext.cs",
+              "RelativeToolTip": "Godoy.Domain\\MyDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:38:23.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropiedadService.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Domain\\PropiedadService.cs",
+              "RelativeDocumentMoniker": "Godoy.Domain\\PropiedadService.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Domain\\PropiedadService.cs",
+              "RelativeToolTip": "Godoy.Domain\\PropiedadService.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:09:15.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\PropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Godoy.Presentacion\\PropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\PropiedadApiClient.cs",
+              "RelativeToolTip": "Godoy.Presentacion\\PropiedadApiClient.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:28:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Godoy.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.WebApi\\Program.cs",
+              "RelativeToolTip": "Godoy.WebApi\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:26:54.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropiedadesUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\PropiedadesUI.razor",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\Components\\Pages\\PropiedadesUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\PropiedadesUI.razor",
+              "RelativeToolTip": "Godoy.Blazor\\Components\\Pages\\PropiedadesUI.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:53:00.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropiedadUI.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\PropiedadUI.razor",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\Components\\Pages\\PropiedadUI.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\PropiedadUI.razor",
+              "RelativeToolTip": "Godoy.Blazor\\Components\\Pages\\PropiedadUI.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T21:19:56.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detalle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\Detalle.Designer.cs",
+              "RelativeDocumentMoniker": "Godoy.Presentacion\\Detalle.Designer.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\Detalle.Designer.cs",
+              "RelativeToolTip": "Godoy.Presentacion\\Detalle.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:42:51.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Domain\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Godoy.Domain\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Domain\\Propiedad.cs",
+              "RelativeToolTip": "Godoy.Domain\\Propiedad.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:23:08.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "Godoy.Blazor\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T12:50:44.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoPropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\TipoPropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\TipoPropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\TipoPropiedadApiClient.cs",
+              "RelativeToolTip": "Godoy.Blazor\\TipoPropiedadApiClient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:28:18.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoPropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\TipoPropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Godoy.Presentacion\\TipoPropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Presentacion\\TipoPropiedadApiClient.cs",
+              "RelativeToolTip": "Godoy.Presentacion\\TipoPropiedadApiClient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:28:28.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Godoy.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.WebApi\\Godoy.WebApi.csproj",
+              "RelativeDocumentMoniker": "Godoy.WebApi\\Godoy.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.WebApi\\Godoy.WebApi.csproj",
+              "RelativeToolTip": "Godoy.WebApi\\Godoy.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T21:26:50.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\PropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\PropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\PropiedadApiClient.cs",
+              "RelativeToolTip": "Godoy.Blazor\\PropiedadApiClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:11:47.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Routes.razor",
+              "RelativeToolTip": "Godoy.Blazor\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T13:11:40.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Godoy.Blazor\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T13:11:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Godoy.Blazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Arquitecturas Net\\GodoyMarcos\\Godoy.Blazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Godoy.Blazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:52:58.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

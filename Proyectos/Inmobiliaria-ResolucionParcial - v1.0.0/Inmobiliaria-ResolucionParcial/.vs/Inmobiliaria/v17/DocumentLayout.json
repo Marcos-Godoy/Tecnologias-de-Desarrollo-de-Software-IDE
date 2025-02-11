@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\apiclients\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\apiclients\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\apiclients\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\apiclients\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\apiclients\\tipopropiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\apiclients\\tipopropiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\propiedadlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\propiedadlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\propiedaddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\propiedaddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\apiclients\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\apiclients\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0395B8B5-A028-4725-9C95-D131A57CB3B6}|Inmobiliaria.WebApi\\Inmobiliaria.WebApi.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0395B8B5-A028-4725-9C95-D131A57CB3B6}|Inmobiliaria.WebApi\\Inmobiliaria.WebApi.csproj|solutionrelative:inmobiliaria.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0395B8B5-A028-4725-9C95-D131A57CB3B6}|Inmobiliaria.WebApi\\Inmobiliaria.WebApi.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0395B8B5-A028-4725-9C95-D131A57CB3B6}|Inmobiliaria.WebApi\\Inmobiliaria.WebApi.csproj|solutionrelative:inmobiliaria.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\tipopropiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\tipopropiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\propiedadvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\propiedadvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\cuatro vientos\\desktop\\parciales net\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\inmobiliaria.ui.desktop\\propiedaddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\propiedaddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\inmobiliaria.ui.desktop\\propiedadlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\propiedadlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:37:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropiedadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:36:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoPropiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:25:58.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropiedadDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:46:51.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropiedadLista.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadLista.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\PropiedadLista.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadLista.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\PropiedadLista.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwFsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:22:13.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\Propiedad.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\Propiedad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:49:00.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InmobiliariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:18:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\Program.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:58:15.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoPropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:41:59.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoPropiedadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadDto.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadDto.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadDto.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:36:11.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Inmobiliaria.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Inmobiliaria.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T19:34:53.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Inmobiliaria.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.WebApi\\appsettings.json",
+              "RelativeToolTip": "Inmobiliaria.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T19:34:46.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropiedadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadDto.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\PropiedadDto.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadDto.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\PropiedadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:49:19.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropiedadValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:50:48.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoPropiedadService.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:39:21.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PropiedadDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:48:23.821Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PropiedadLista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadLista.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\PropiedadLista.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Parciales Net\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadLista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\PropiedadLista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:10:11.66Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

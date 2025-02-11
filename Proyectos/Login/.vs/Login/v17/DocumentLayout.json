@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A94ED249-E5E9-4ED2-A5F8-9B1975E8728A}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\login\\dominio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94ED249-E5E9-4ED2-A5F8-9B1975E8728A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94ED249-E5E9-4ED2-A5F8-9B1975E8728A}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\login\\dominio\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94ED249-E5E9-4ED2-A5F8-9B1975E8728A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A18C1A1-DED0-4730-B7A1-0567BF1ABE50}|WebApplication\\WebApplication.csproj|c:\\users\\cuatro vientos\\desktop\\login\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A18C1A1-DED0-4730-B7A1-0567BF1ABE50}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94ED249-E5E9-4ED2-A5F8-9B1975E8728A}|Dominio\\Dominio.csproj|c:\\users\\cuatro vientos\\desktop\\login\\dominio\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94ED249-E5E9-4ED2-A5F8-9B1975E8728A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37578D5F-6F54-48A3-B240-EAE490F66267}|Presentacion\\Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\login\\presentacion\\usuarioapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37578D5F-6F54-48A3-B240-EAE490F66267}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\usuarioapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37578D5F-6F54-48A3-B240-EAE490F66267}|Presentacion\\Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\login\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37578D5F-6F54-48A3-B240-EAE490F66267}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A18C1A1-DED0-4730-B7A1-0567BF1ABE50}|WebApplication\\WebApplication.csproj|c:\\users\\cuatro vientos\\desktop\\login\\webapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A18C1A1-DED0-4730-B7A1-0567BF1ABE50}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37578D5F-6F54-48A3-B240-EAE490F66267}|Presentacion\\Presentacion.csproj|c:\\users\\cuatro vientos\\desktop\\login\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37578D5F-6F54-48A3-B240-EAE490F66267}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Dominio\\UsuarioLoginDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\UsuarioLoginDto.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Dominio\\UsuarioLoginDto.cs",
+              "RelativeToolTip": "Dominio\\UsuarioLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:56:08.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Presentacion\\UsuarioApiClient.cs",
+              "RelativeDocumentMoniker": "Presentacion\\UsuarioApiClient.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Presentacion\\UsuarioApiClient.cs",
+              "RelativeToolTip": "Presentacion\\UsuarioApiClient.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:31:33.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\WebApplication\\Program.cs",
+              "RelativeToolTip": "WebApplication\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:27:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Dominio\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Dominio\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Dominio\\UsuarioService.cs",
+              "RelativeToolTip": "Dominio\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:25:17.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:21:17.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Dominio\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Dominio\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Dominio\\MyDbContext.cs",
+              "RelativeToolTip": "Dominio\\MyDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:22:39.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\WebApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\WebApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T14:32:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuatro Vientos\\Desktop\\Login\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:19:04.451Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

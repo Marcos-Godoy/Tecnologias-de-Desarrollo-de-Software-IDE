@@ -1,0 +1,112 @@
+﻿@page "/entidades"
+@rendermode InteractiveServer
+
+@inject IJSRuntime JSRuntime
+
+@if (!error)
+{
+    @if (entidades == null)
+    {
+        <div class="d-flex align-items-center mt-3">
+            <h2 class="me-3">Listado</h2>
+            <img class="pb-2" style="width:35px" src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" />
+        </div>
+    }
+    else
+    {
+        <div class="d-flex align-items-center justify-content-between mt-3">
+            <h2>Listado</h2>
+            
+        </div>
+        <div class="d-flex justify-content-end">
+            <a class="btn btn-secondary btn-lg" href="entidad">
+                Agregar
+            </a>
+            <a class="btn btn-secondary btn-lg" @onclick="OnInitializedAsync">
+                Recargar
+            </a>
+        </div>
+        
+
+        @if (entidades.Count() == 0)
+        {
+            <div class="alert alert-primary fw-bold mt-3" role="alert">
+                No hay registros
+            </div>
+        }
+        else
+        {
+            <table class="table mt-3">
+                <thead>
+                    <tr>
+                        <th>DNI</th>
+                        <th>Nombre</th>
+                        <th>Email</th>
+                        <th>Nacimiento</th>
+                        <th>Promedio</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var a in entidades)
+                    {
+                        <tr>
+                            <td style="vertical-align: middle;">@a.DNI</td>
+                            <td style="vertical-align: middle;">@a.ApellidoNombre</td>
+                            <td style="vertical-align: middle;">@a.Email</td>
+                            <td style="vertical-align: middle;">@a.FechaNacimiento</td>
+                            <td style="vertical-align: middle;">@a.NotaPromedio</td>
+                            <td class="d-flex justify-content-end">
+                                <a class="btn btn-primary btn-sm" href="entidad/@a.DNI">
+                                    Modificar
+                                </a>
+                                <button class="btn btn-danger btn-sm ms-2" @onclick="(() => Eliminar(a))">
+                                    Eliminar
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    }
+}
+else
+{
+    <h2 class="mt-3">Listado</h2>
+    <div class="alert alert-danger fw-bold my-3" role="alert">
+        Error al conectarse a la base de datos!
+    </div>
+    <div class="d-flex justify-content-end">
+        <button class="btn btn-primary" @onclick="OnInitializedAsync">Reintentar</button>
+    </div>
+}
+
+
+@code {
+    IEnumerable<Alumno> entidades;
+    bool error;
+
+    protected override async Task OnInitializedAsync()
+    {
+        entidades = null;
+        error = false;
+        try
+        {
+            entidades = await Negocio.GetAll();
+        }
+        catch (Exception)
+        {
+            error = true;
+        }
+    }
+
+    private async void Eliminar(Alumno a)
+    {
+        var confirm = await JSRuntime.InvokeAsync<bool>("confirm", $"¿Estás seguro de que deseas eliminar?");
+        if (confirm)
+        {
+            await Negocio.Delete(a);
+        }
+    }
+}
